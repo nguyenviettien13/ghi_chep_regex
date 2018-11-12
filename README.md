@@ -200,3 +200,5 @@ Trước khi có một định nghĩa về Greedy, tôi sẽ lấy một ví d�
 <img src="http://i.imgur.com/8CxpG5e.png">
 *Khi muốn bắt thông tin về port đăng nhập ssh:*
 <img src="http://i.imgur.com/6S5xDgQ.png">
+
+src: hocchudong
